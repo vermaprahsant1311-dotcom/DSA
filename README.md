@@ -22,10 +22,12 @@
 | [0007-reverse-integer](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0067-add-binary) |
+| [0509-fibonacci-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,4 +53,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
