@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0014-longest-common-prefix) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,4 +76,13 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
