@@ -10,6 +10,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0611-valid-triangle-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0905-sort-array-by-parity) |
 ## Sorting
@@ -86,6 +89,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0905-sort-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
@@ -103,6 +107,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0611-valid-triangle-number) |
 ## Quicksort
 |  |
 | ------- |
