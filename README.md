@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0014-longest-common-prefix) |
+| [0078-subsets](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0078-subsets) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0202-happy-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
