@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0078-subsets) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -145,5 +146,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
