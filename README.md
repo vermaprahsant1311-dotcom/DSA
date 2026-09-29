@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0383-ransom-note) |
@@ -62,6 +63,7 @@
 | [0014-longest-common-prefix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0067-add-binary) |
+| [0290-word-pattern](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0383-ransom-note) |
 | [0844-backspace-string-compare](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 ## Trie
