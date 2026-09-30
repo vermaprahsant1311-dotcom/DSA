@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
@@ -180,4 +181,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
