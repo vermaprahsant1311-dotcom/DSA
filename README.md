@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0290-word-pattern) |
@@ -119,6 +120,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0383-ransom-note) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
