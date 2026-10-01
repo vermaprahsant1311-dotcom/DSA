@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0455-assign-cookies) |
@@ -155,6 +159,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -192,4 +197,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
