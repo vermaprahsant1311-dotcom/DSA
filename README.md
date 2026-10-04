@@ -14,6 +14,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0611-valid-triangle-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0905-sort-array-by-parity) |
@@ -26,6 +27,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 ## Greedy
@@ -201,4 +204,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
