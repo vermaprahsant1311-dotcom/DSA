@@ -68,6 +68,7 @@
 | [0014-longest-common-prefix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0383-ransom-note) |
@@ -91,6 +92,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0682-baseball-game) |
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Design
 |  |
 | ------- |
