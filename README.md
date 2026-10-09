@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0078-subsets) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0287-find-the-duplicate-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -40,6 +41,7 @@
 | [0009-palindrome-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0509-fibonacci-number) |
 | [1952-three-divisors](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1952-three-divisors) |
@@ -133,6 +135,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
