@@ -7,11 +7,6 @@ class Solution {
             else if(!stack.isEmpty()&&s.charAt(i)==')') stack.pop();
             else j++;
         }
-        
-        while(!stack.isEmpty()){
-            stack.pop();
-            j++;
-        } 
-        return j;
+        return j+stack.size();
     }
 }
