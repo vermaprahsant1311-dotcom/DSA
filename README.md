@@ -20,6 +20,7 @@
 | [0682-baseball-game](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0946-validate-stack-sequences) |
+| [1441-build-an-array-with-stack-operations](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0682-baseball-game](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0946-validate-stack-sequences) |
+| [1441-build-an-array-with-stack-operations](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1544-make-the-string-great) |
 ## Greedy
 |  |
