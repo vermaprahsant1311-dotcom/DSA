@@ -16,6 +16,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0905-sort-array-by-parity) |
@@ -31,6 +32,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -231,4 +233,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
