@@ -75,6 +75,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0067-add-binary) |
@@ -105,6 +106,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -191,6 +193,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0078-subsets) |
 ## String Matching
@@ -217,6 +220,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
