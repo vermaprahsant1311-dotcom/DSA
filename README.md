@@ -34,6 +34,7 @@
 | [0383-ransom-note](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1796-second-largest-digit-in-a-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1544-make-the-string-great) |
+| [1796-second-largest-digit-in-a-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Trie
 |  |
 | ------- |
