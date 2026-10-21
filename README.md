@@ -23,6 +23,7 @@
 | [0946-validate-stack-sequences](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1544-make-the-string-great) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1796-second-largest-digit-in-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
 | ------- |
