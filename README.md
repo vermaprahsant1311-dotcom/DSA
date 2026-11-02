@@ -16,6 +16,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0682-baseball-game) |
@@ -157,6 +158,7 @@
 | [0155-min-stack](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -246,6 +248,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Prefix Sum
 |  |
