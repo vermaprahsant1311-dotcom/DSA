@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0287-find-the-duplicate-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -247,6 +249,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -284,4 +287,8 @@
 | [0101-symmetric-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0226-invert-binary-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
