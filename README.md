@@ -28,6 +28,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
 | ------- |
