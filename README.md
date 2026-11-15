@@ -22,6 +22,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -172,6 +173,7 @@
 | [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0946-validate-stack-sequences) |
@@ -262,6 +264,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Prefix Sum
 |  |
