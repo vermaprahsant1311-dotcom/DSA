@@ -26,6 +26,7 @@
 | [0946-validate-stack-sequences](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -57,6 +58,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1952-three-divisors](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1952-three-divisors) |
 ## Recursion
 |  |
@@ -121,6 +123,7 @@
 | [0022-generate-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -264,6 +267,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Tree
 |  |
 | ------- |
