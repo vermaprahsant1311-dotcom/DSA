@@ -91,6 +91,7 @@
 | [0022-generate-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0383-ransom-note) |
