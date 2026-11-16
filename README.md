@@ -100,6 +100,7 @@
 | [1544-make-the-string-great](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1544-make-the-string-great) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0844-backspace-string-compare](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
