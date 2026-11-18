@@ -291,6 +291,7 @@
 | [0226-invert-binary-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -298,6 +299,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -314,6 +316,7 @@
 | [0226-invert-binary-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -328,6 +331,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vermaprahsant1311-dotcom/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
